@@ -1,14 +1,33 @@
 function mostrar()
 {
 
-var numero;
+var acumulador = 0;
+var numero; 
+var contador= 0;
 
-var numeroDos;
+// inicilizacion ; condicion ; incremento
 
-var suma;
+while (contador < 5) {
+
+		numero= prompt("Ingrese un numero");
+		numero = parseInt(numero);
+		acumulador += numero;
+		contador ++;
 
 
+}
 
+///////////////////////////////////
+
+
+//for(var i = 0; i < 5 ; i++)
+//*{
+	numero = prompt ("ingrese un numero");
+
+	numero = parseInt(numero);
+	acumulador += numero;
+
+}//*//
 
 /////
 

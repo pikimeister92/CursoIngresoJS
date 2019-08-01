@@ -1,0 +1,60 @@
+si ya sabemos de antemano cuantas cantidad de iteraciones queremos hacer usamos ejemplo de FOR ejemplo 5 iteraciones 
+
+cuando no sabemos la cantidad que el usuario ingrese vamos a usar un while 
+
+while  
+
+do while  . do while es para entrar la principio y forzar 
+
+
+for cuando tenemos las iteraciones ya sabidas 
+
+
+
+
+debuggear f12  
+
+entramos a sources 
+
+entramos a la iteraciones que tenemos cuando pongamos el click arriba  de una linea de codigo nos va a generar un break point 
+
+
+si apretamos f10 sigue 
+
+
+
+
+
+
+
+
+
+
+
+otro metodo de salida es confirm (¿ desea continuar ?);
+
+
+otro metodo de salida es document.write 
+
+ejemplo document.write ("Maximo" + maximo + 
+
+
+
+
+
+
+
+
+
+while (isNaN(numero)) {
+
+numero = prompt ("error , debe ingresar 
+
+while ( isNaN(numero) II parseInt (numero) < -10 II  parseInt(numero) > 10 {
+
+
+}numero = parseInt(numero);
+
+
+
+
