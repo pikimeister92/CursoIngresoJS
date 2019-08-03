@@ -1,0 +1,27 @@
+ {  var contador;
+
+	contador= 0;
+while(contador < 5)   en este caso el contador se detiene en 5 por que llega hasta ahi la iteracion que es lo que declaramos 
+
+{   contador++;
+	console.info("in",contador);
+
+	} console.info("out",contador);
+
+1 º inicio.
+
+2º logica.
+
+3º cambio.
+
+el parcial se puede resolver con for o con while 
+
+
+for ( contador= 0; contador <5(logica): 3ª entrar contador++);
+
+{ console.info("in",contador):
+ }
+console.info("out",contador);
+
+}con F12 podemos abrir la consola y con F10 y click utilizamos la herramienta debugger.
+
